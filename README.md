@@ -197,7 +197,7 @@ Tampialnnya seperti berikut.
 ```html
 <footer class="bg-dark text-white p-3 text-center">&copy; 2022 - Universitas Pelita Bangsa | Rangga Saputra</footer>
 ```
-![Footer](lab6_css_framework/img/footer.jpg)
+![Footer](lab6_css_framework/img/footer.png)
 
 # Sekian Terima Kasih
 # Selamat Menjalankan UTS
